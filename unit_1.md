@@ -8,11 +8,12 @@ Trashing yourself is simple and easy. Get yourself distracted, addicted to your 
 ### Presequites to Trash your Code
 Here are the basic requirements to Trash your Code.
 
-1. Open your least favorite text-editor, with completely no code-highlight or code auto-complete. The default Windows text-editor or the macOS default text-editor would be a good choice. 
+1. Open your least favorite text-editor, with completely no code-highlight or code auto-complete. The default Windows text-editor or the macOS default text-editor would be a good choice. Also, please change your keyboard language into a unicode language one, and it should be easily swtichable between the languages; Microsoft Chinese and Japnese will be good to try.
 2. Open a random music application on your phone, computer or whatever device. Play music that you don't like. A good one would be Lost Rivers. 
 3. Play the music at full volume with either speakers or headphones. Shake your head so you get into action.
 4. Use your keyboard horizontally, and switch to your other hand using the mouse. This makes you feel good about yourself.
-5. Start writing trash code!
+5. Create a file supports less encodings and characters. ANSI files would in nice. 
+6. Start writing trash code!
 
 ### Writing the Code
 After you have done the things done above, you are ready to write Trash Code!
